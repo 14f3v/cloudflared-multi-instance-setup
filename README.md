@@ -17,3 +17,13 @@ https://github.com/14f3v/cloudflared-multi-instance-setup.git
 bash <(curl -s https://raw.githubusercontent.com/14f3v/cloudflared-multi-instance-setup/main/sprint.sh) <service-name> <cloudflare-token>
 ```
 
+---
+
+#### 🔧 **Optional Additions**
+- 🧾 `.gitignore` (if you plan to expand)
+- 🙌 `CONTRIBUTING.md` if you want contributions
+- 🔖 GitHub topics/tags to improve searchability (`cloudflare`, `tunnel`, `systemd`, `self-hosted`, etc.)
+
+---
+
+Let me know if you'd like help adding those improvements or publishing it to a wider audience 👏
