@@ -46,4 +46,6 @@ echo "🔁 Reloaded systemd"
 # Done
 echo "🎉 New service $SERVICE_NAME is ready. Use:"
 echo "  sudo systemctl enable $SERVICE_NAME"
+sudo systemctl enable $SERVICE_NAME
 echo "  sudo systemctl start $SERVICE_NAME"
+sudo systemctl start $SERVICE_NAME
